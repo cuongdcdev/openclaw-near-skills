@@ -105,8 +105,8 @@ await executeIntent({
 ```bash
 # Clone the repository
 cd /root/.openclaw/skills/
-git clone https://github.com/cuongdcdev/near-skill-openclawd.git
-cd near-skill-openclawd/near-skills
+git clone https://github.com/cuongdcdev/openclaw-near-skills.git
+cd openclaw-near-skills/near-skills
 
 # Install each skill
 cd near-tools && npm install && cd ..
@@ -120,8 +120,8 @@ Each skill is self-contained and can be used independently:
 
 ```bash
 cd /root/.openclaw/skills/
-git clone https://github.com/cuongdcdev/near-skill-openclawd.git
-cd near-skill-openclawd/near-skills/near-intents  # or near-getpay
+git clone https://github.com/cuongdcdev/openclaw-near-skills.git
+cd openclaw-near-skills/near-skills/near-intents  # or near-getpay
 npm install
 ```
 
