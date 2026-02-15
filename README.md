@@ -1,6 +1,6 @@
 # NEAR Skills Collection for OpenClaw
 
-A comprehensive suite of NEAR Protocol skills for OpenClaw AI agents.
+A useful suite of NEAR Protocol skills for OpenClaw.
 
 [![OpenClaw](https://img.shields.io/badge/OpenClaw-Skills-blue)](https://openclaw.ai)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)

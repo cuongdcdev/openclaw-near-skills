@@ -1,0 +1,34 @@
+# Test Files
+
+node_modules/
+*.log
+.env
+.DS_Store
+Thumbs.db
+
+# Test files (keep in dev, exclude from production)
+test-*.ts
+swap-*.ts
+*.test.ts
+tests/
+
+# Build artifacts
+dist/
+build/
+*.tsbuildinfo
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary
+*.tmp
+*.temp
+.cache/
